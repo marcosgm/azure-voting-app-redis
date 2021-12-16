@@ -1,4 +1,6 @@
 ---
+
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/0170da60-72da-41cc-a3a6-196a361c1205.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/azure-voting-app-redis)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/bcf03c9c-b3f5-451e-a538-f0fc9c21cddf.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/azure-voting-app-redis)  
 page_type: sample
 languages:
   - python
